@@ -5,7 +5,7 @@
 **Project Description**: A react native app that changes background color when you press a button, and that has the image of a game on the front. Also, holds the pdfs that
 are a part of the game. 
 
-**Project Goals**: 
+**Project Goals**: Images, buttons, pdfs, and working
 
 ## Instructions for Build and Use
 
